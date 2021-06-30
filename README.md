@@ -14,7 +14,7 @@
 
 ## Group Members 
   * Deshan L.A.C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;E/16/076 &nbsp;&nbsp;&nbsp; e16076@eng.pdn.ac.lk
-  * Thisanke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/368  &nbsp;&nbsp;&nbsp;&nbsp;e16368@eng.pdn.ac.lk
+  * Thisanke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/368  &nbsp;&nbsp;&nbsp;&nbsp;e16368@eng.pdn.ac.lk
       
 #### correspond from left to right
       
