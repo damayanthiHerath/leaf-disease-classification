@@ -8,27 +8,12 @@
 
 * [Group Members](#group-members)
 * [Introduction](#introduction)
-* [Problem](#problem)
 * [Advisors](#advisors)
 * [Links](#links)
 
 ## Group Members 
   * Deshan L.A.C &nbsp;&nbsp;E/16/076 &nbsp;&nbsp;&nbsp; e16076@eng.pdn.ac.lk
   * Thisanke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/368  &nbsp;&nbsp;&nbsp;&nbsp;e16368@eng.pdn.ac.lk
-      
-#### correspond from left to right
-      
-<div id="Group Members" >
-    <div class="inline-block">
-        <img src ="https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/member1.jpg" align="left" width="250" height="250">
-    </div>
-    <div class="inline-block">
-        <img src ="https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/member3.jpg" align="left" width="250" height="250">
-    </div>
-    <div class="inline-block">
-       <img src ="https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/member2.jpg" alt= " "  width="230" height="250">
-    </div>
-</div>
 
 ## Introduction
 
