@@ -1,5 +1,5 @@
 
-# Project Name : Sri Lankan local vegetable plant leaf diseases detection
+# Sri Lankan local vegetable plants leaf diseases detection
 > [Visit our page](#) 
 
 
@@ -13,7 +13,7 @@
 * [Links](#links)
 
 ## Group Members 
-  * Deshan L.A.C &nbsp;&nbsp;&nbsp;E/16/076 &nbsp;&nbsp;&nbsp; e16076@eng.pdn.ac.lk
+  * Deshan L.A.C &nbsp;&nbsp;E/16/076 &nbsp;&nbsp;&nbsp; e16076@eng.pdn.ac.lk
   * Thisanke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/368  &nbsp;&nbsp;&nbsp;&nbsp;e16368@eng.pdn.ac.lk
       
 #### correspond from left to right
