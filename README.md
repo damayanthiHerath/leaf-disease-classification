@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-* [Group Members](#group-members)
+* [Members](#members)
 * [Introduction](#introduction)
 * [Advisors](#advisors)
 
-## Group Members 
+## Members 
   * Deshan L.A.C &nbsp;&nbsp;E/16/076 &nbsp;&nbsp;&nbsp; e16076@eng.pdn.ac.lk
   * Thisanke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/368  &nbsp;&nbsp;&nbsp;&nbsp;e16368@eng.pdn.ac.lk
 
