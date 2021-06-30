@@ -19,11 +19,7 @@ This is a research project. We are focusing on developing system to detect the l
 
 ## Advisors
 
->Dr. Damayanthi Herath
->Senior Lecturer
->Department of Computer Engineering
->University of Peradenya
->Sri Lanka
+>Dr. Damayanthi Herath  |  Senior Lecturer  |   Department of Computer Engineering  |   University of Peradenya  |  Sri Lanka
 
 
 
