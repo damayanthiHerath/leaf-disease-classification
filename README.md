@@ -14,8 +14,7 @@
 
 ## Introduction
 
-This is a research project. We are focusing on developing system to detect the leaf diseases in local vegetable plants with fine tuned models.
-
+This is a research project. We are focusing on use of deep learning for plant leaf disease detection in a local context.
 
 ## Advisors
 
