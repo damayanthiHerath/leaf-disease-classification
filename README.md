@@ -1,5 +1,5 @@
 
-# Sri Lankan local vegetable plants leaf diseases detection
+# Deep Learning for plant disease classification: In a local context
 > [Visit our page](#) 
 
 ## Table of Contents
